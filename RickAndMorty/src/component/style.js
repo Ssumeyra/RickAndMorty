@@ -34,7 +34,8 @@ const mainStyles = StyleSheet.create({
       },
       air_date:{
         fontSize:16,
-        fontWeight:"500"
+        fontWeight:"500",
+        marginTop:5
       },
       episode:{
           width:100,
